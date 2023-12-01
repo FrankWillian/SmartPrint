@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>Opuspac</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>org.qtproject.opuspac</Name>
+        <Title>OPUSPAC</Title>
+        <Description>Opus 5.0</Description>
+        <TreeName></TreeName>
+        <Version>5.3.20</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-11-02</InstallDate>
+        <Size>308426062</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>

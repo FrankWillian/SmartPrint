@@ -1,0 +1,171 @@
+************************************* Invoked: dom nov 14 15:45:03 2021
+[0] Arguments: C:\Users\maintenancetool.exe
+[43] Operations sanity check succeeded.
+[44] Language: pt-BR
+[54886] Starting elevated process "C:\\Users\\maintenancetool.exe" with arguments " --start-server PRODUCTION,{77164f8d-94c7-4acc-ad3a-378b5a397801},{68dcf401-0e42-4073-b1da-8512beaedfcd}"
+[57818] Finished starting elevated process.
+t point: "C:\\" Free space available: "103.45 GB"
+[8255] Starting elevated process "F:\\Opus_5.0_NOLICENSE.exe" with arguments " --start-server PRODUCTION,{c9a68cdd-108a-401d-9239-755193ea5bc5},{5eb20492-e9c3-4890-bede-7876c27be64d}"
+[14859] Finished starting elevated process.
+[14936] backup  operation: Mkdir
+[14936] 	- arguments: C:/Users
+[14943] Done
+[14950] perform  operation: Mkdir
+[14950] 	- arguments: C:/Users
+[14952] Done
+[14956] Preparando a instalação...
+[14957] Install size: 1 components
+[14979] Instalando o componente OPUSPAC
+[14980] backup org.qtproject.opuspac operation: Extract
+[14980] 	- arguments: installer://org.qtproject.opuspac/5.3.20bearer.7z, C:\Users
+[14980] Done
+[14981] perform org.qtproject.opuspac operation: Extract
+[14981] 	- arguments: installer://org.qtproject.opuspac/5.3.20bearer.7z, C:\Users
+[15007] Done
+[15008] backup org.qtproject.opuspac operation: Extract
+[15008] 	- arguments: installer://org.qtproject.opuspac/5.3.20content.7z, C:\Users
+[15008] Done
+[15008] perform org.qtproject.opuspac operation: Extract
+[15008] 	- arguments: installer://org.qtproject.opuspac/5.3.20content.7z, C:\Users
+[18866] Done
+[18867] backup org.qtproject.opuspac operation: Extract
+[18867] 	- arguments: installer://org.qtproject.opuspac/5.3.20i18n.7z, C:\Users
+[18867] Done
+[18867] perform org.qtproject.opuspac operation: Extract
+[18867] 	- arguments: installer://org.qtproject.opuspac/5.3.20i18n.7z, C:\Users
+[18940] Done
+[18941] backup org.qtproject.opuspac operation: Extract
+[18941] 	- arguments: installer://org.qtproject.opuspac/5.3.20iconengines.7z, C:\Users
+[18941] Done
+[18941] perform org.qtproject.opuspac operation: Extract
+[18941] 	- arguments: installer://org.qtproject.opuspac/5.3.20iconengines.7z, C:\Users
+[18959] Done
+[18959] backup org.qtproject.opuspac operation: Extract
+[18959] 	- arguments: installer://org.qtproject.opuspac/5.3.20imageformats.7z, C:\Users
+[18959] Done
+[18960] perform org.qtproject.opuspac operation: Extract
+[18960] 	- arguments: installer://org.qtproject.opuspac/5.3.20imageformats.7z, C:\Users
+[19060] Done
+[19060] backup org.qtproject.opuspac operation: Extract
+[19060] 	- arguments: installer://org.qtproject.opuspac/5.3.20Opus5_data.7z, C:\Users
+[19060] Done
+[19060] perform org.qtproject.opuspac operation: Extract
+[19060] 	- arguments: installer://org.qtproject.opuspac/5.3.20Opus5_data.7z, C:\Users
+[19074] Done
+[19075] backup org.qtproject.opuspac operation: Extract
+[19075] 	- arguments: installer://org.qtproject.opuspac/5.3.20platforms.7z, C:\Users
+[19075] Done
+[19075] perform org.qtproject.opuspac operation: Extract
+[19075] 	- arguments: installer://org.qtproject.opuspac/5.3.20platforms.7z, C:\Users
+[19135] Done
+[19135] backup org.qtproject.opuspac operation: Extract
+[19135] 	- arguments: installer://org.qtproject.opuspac/5.3.20position.7z, C:\Users
+[19135] Done
+[19135] perform org.qtproject.opuspac operation: Extract
+[19135] 	- arguments: installer://org.qtproject.opuspac/5.3.20position.7z, C:\Users
+[19168] Done
+[19169] backup org.qtproject.opuspac operation: Extract
+[19169] 	- arguments: installer://org.qtproject.opuspac/5.3.20qmltooling.7z, C:\Users
+[19169] Done
+[19170] perform org.qtproject.opuspac operation: Extract
+[19170] 	- arguments: installer://org.qtproject.opuspac/5.3.20qmltooling.7z, C:\Users
+[19267] Done
+[19268] backup org.qtproject.opuspac operation: Extract
+[19268] 	- arguments: installer://org.qtproject.opuspac/5.3.20Qt.7z, C:\Users
+[19268] Done
+[19268] perform org.qtproject.opuspac operation: Extract
+[19268] 	- arguments: installer://org.qtproject.opuspac/5.3.20Qt.7z, C:\Users
+[19555] Done
+[19556] backup org.qtproject.opuspac operation: Extract
+[19556] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtQml.7z, C:\Users
+[19556] Done
+[19556] perform org.qtproject.opuspac operation: Extract
+[19556] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtQml.7z, C:\Users
+[19703] Done
+[19704] backup org.qtproject.opuspac operation: Extract
+[19704] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtQuick.2.7z, C:\Users
+[19704] Done
+[19704] perform org.qtproject.opuspac operation: Extract
+[19704] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtQuick.2.7z, C:\Users
+[19746] Done
+[19747] backup org.qtproject.opuspac operation: Extract
+[19747] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtQuick.7z, C:\Users
+[19747] Done
+[19747] perform org.qtproject.opuspac operation: Extract
+[19747] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtQuick.7z, C:\Users
+[26806] Done
+[26807] backup org.qtproject.opuspac operation: Extract
+[26807] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtWebEngine.7z, C:\Users
+[26807] Done
+[26807] perform org.qtproject.opuspac operation: Extract
+[26807] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtWebEngine.7z, C:\Users
+[27006] Done
+[27007] backup org.qtproject.opuspac operation: Extract
+[27007] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtWebView.7z, C:\Users
+[27007] Done
+[27007] perform org.qtproject.opuspac operation: Extract
+[27007] 	- arguments: installer://org.qtproject.opuspac/5.3.20QtWebView.7z, C:\Users
+[27043] Done
+[27044] backup org.qtproject.opuspac operation: Extract
+[27044] 	- arguments: installer://org.qtproject.opuspac/5.3.20resources.7z, C:\Users
+[27044] Done
+[27044] perform org.qtproject.opuspac operation: Extract
+[27044] 	- arguments: installer://org.qtproject.opuspac/5.3.20resources.7z, C:\Users
+[27553] Done
+[27554] backup org.qtproject.opuspac operation: Extract
+[27554] 	- arguments: installer://org.qtproject.opuspac/5.3.20scenegraph.7z, C:\Users
+[27554] Done
+[27554] perform org.qtproject.opuspac operation: Extract
+[27554] 	- arguments: installer://org.qtproject.opuspac/5.3.20scenegraph.7z, C:\Users
+[27587] Done
+[27588] backup org.qtproject.opuspac operation: Extract
+[27588] 	- arguments: installer://org.qtproject.opuspac/5.3.20sqldrivers.7z, C:\Users
+[27588] Done
+[27588] perform org.qtproject.opuspac operation: Extract
+[27588] 	- arguments: installer://org.qtproject.opuspac/5.3.20sqldrivers.7z, C:\Users
+[27684] Done
+[27685] backup org.qtproject.opuspac operation: Extract
+[27685] 	- arguments: installer://org.qtproject.opuspac/5.3.20styles.7z, C:\Users
+[27685] Done
+[27685] perform org.qtproject.opuspac operation: Extract
+[27685] 	- arguments: installer://org.qtproject.opuspac/5.3.20styles.7z, C:\Users
+[27726] Done
+[27727] backup org.qtproject.opuspac operation: Extract
+[27727] 	- arguments: installer://org.qtproject.opuspac/5.3.20translations.7z, C:\Users
+[27727] Done
+[27727] perform org.qtproject.opuspac operation: Extract
+[27727] 	- arguments: installer://org.qtproject.opuspac/5.3.20translations.7z, C:\Users
+[28619] Done
+[28620] backup org.qtproject.opuspac operation: Extract
+[28620] 	- arguments: installer://org.qtproject.opuspac/5.3.20webview.7z, C:\Users
+[28620] Done
+[28620] perform org.qtproject.opuspac operation: Extract
+[28620] 	- arguments: installer://org.qtproject.opuspac/5.3.20webview.7z, C:\Users
+[28644] Done
+[28645] backup org.qtproject.opuspac operation: CreateShortcut
+[28645] 	- arguments: C:\Users/Opus.exe, C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OPUSPAC/Opus_5.lnk, workingDirectory=C:\Users, description=OPUSPAC - Pikone
+[28646] Done
+[28646] perform org.qtproject.opuspac operation: CreateShortcut
+[28646] 	- arguments: C:\Users/Opus.exe, C:\ProgramData\Microsoft\Windows\Start Menu\Programs/OPUSPAC/Opus_5.lnk
+[28728] Done
+[28729] backup org.qtproject.opuspac operation: CreateShortcut
+[28729] 	- arguments: C:\Users/Opus.exe, C:\Users\raul.lima\Desktop\Opus_5.lnk, workingDirectory=C:\Users
+[28732] Done
+[28732] perform org.qtproject.opuspac operation: CreateShortcut
+[28732] 	- arguments: C:\Users/Opus.exe, C:\Users\raul.lima\Desktop\Opus_5.lnk
+[28764] Done
+[28764] backup org.qtproject.opuspac operation: CreateShortcut
+[28764] 	- arguments: C:\Users/Opus.exe, C:\Users\raul.lima\OneDrive\Desktop\Opus_5.lnk, workingDirectory=C:\Users
+[28766] Done
+[28766] perform org.qtproject.opuspac operation: CreateShortcut
+[28766] 	- arguments: C:\Users/Opus.exe, C:\Users\raul.lima\OneDrive\Desktop\Opus_5.lnk
+[28792] Done
+[28810] Writing maintenance tool: "C:\\Users/maintenancetool.exe.new"
+[28811] Escrevendo ferramenta de manutenção.
+[29316] Wrote permissions for maintenance tool.
+[29462] Maintenance tool restart: false.
+[29464] Instalação finalizada!
+************************************* Invoked: dom nov 14 15:50:52 2021
+[0] Arguments: D:\Opus5\maintenancetool.exe
+[12] Operations sanity check succeeded.
+[12] Language: pt-BR
